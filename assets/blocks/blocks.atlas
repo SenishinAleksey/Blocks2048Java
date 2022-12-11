@@ -1,0 +1,97 @@
+
+blocks.png
+size: 256, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1024
+  rotate: false
+  xy: 2, 82
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+128
+  rotate: false
+  xy: 82, 322
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 162, 402
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+2048
+  rotate: false
+  xy: 82, 402
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+256
+  rotate: false
+  xy: 162, 322
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 2, 402
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 242
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+4096
+  rotate: false
+  xy: 82, 242
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+512
+  rotate: false
+  xy: 2, 322
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+64
+  rotate: false
+  xy: 162, 242
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 82, 162
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+8192
+  rotate: false
+  xy: 2, 162
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
